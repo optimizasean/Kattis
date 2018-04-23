@@ -1,0 +1,5 @@
+Due to programming name restrictions, a variable or descriptor of any kind
+may not be named starting with a number in any language(as well as certain
+symbols).  Therefore, I renamed this one to the phonetic alternative, 3 to
+Three (capital T signifies number not word as all kattis problem ID are
+lowercase.  Threedprinter.java;
