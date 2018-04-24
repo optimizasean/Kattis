@@ -17,7 +17,7 @@ typedef struct edge {
 	//ID of nodes(this node u and other node v) that form this edge, e.g. v is a connected node of u(this)
 	int u, v;
 	//w is weight of path to node v from this node(u)
-    double w;
+	double w;
 	//Constructor, set nodes and weight(used _ to prevent name collisions ex: edge u or constructor u)
 	edge (int _u, int _v, double _w) {
 		u = _u;
@@ -106,6 +106,6 @@ int main() {
 	}
 	//End line for test cases format rules
 	cout << endl;
-	//Method end
+	//Method end, program complete
 	return 0;
 }
