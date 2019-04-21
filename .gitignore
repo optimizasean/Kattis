@@ -1,0 +1,29 @@
+# .gitignore #
+##############
+# This ignores random generated crap from the repository
+
+# Program and System Generated Files #
+######################################
+.DS_Store
+Desktop.ini
+.git
+.vscode
+*.code-workspace
+
+# Temporary Files and Directories #
+###################################
+temp.*
+temp
+TEMP.*
+TEMP
+TEMP/
+temp/
+
+# Build Files #
+###############
+# Java
+*.class
+*.jar
+# C & C++
+*.o
+*.exe
