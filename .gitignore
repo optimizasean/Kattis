@@ -27,3 +27,6 @@ temp/
 # C & C++
 *.o
 *.exe
+# C#
+*.exe
+
